@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listify", "Listify\Listify.csproj", "{C5CB5AB7-99AE-44DD-BD7E-045D64558928}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5CB5AB7-99AE-44DD-BD7E-045D64558928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5CB5AB7-99AE-44DD-BD7E-045D64558928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5CB5AB7-99AE-44DD-BD7E-045D64558928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5CB5AB7-99AE-44DD-BD7E-045D64558928}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79969BF8-4384-436B-BD43-7C9A168BE6A1}
+	EndGlobalSection
+EndGlobal
